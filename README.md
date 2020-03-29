@@ -22,3 +22,7 @@
 
 - How Our Code is Executed: JavaScript Parses and Engines
 - Execution Contexts and the Execution Stack
+- Execution Contexts in Details: Creation and Executing Phases and Hoisting
+- Hosting in Practice
+- Scoping and the Scope Chain
+- The 'this' Keyword
