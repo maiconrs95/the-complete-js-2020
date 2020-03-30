@@ -254,7 +254,7 @@ console.log('Function Statements: ', sum(1, 2));
 /****************************
  * Arrays
  *
- * Armazena uma coleção de dados. O array é capaz de armazena dados simples como números e string, mas também pode armazena objetos
+ * Armazena uma coleção de dados. O array é capaz de armazenar dados simples como números e string, mas também pode armazena objetos
  * complexos.
  *
  * Arrays possuem métodos e propriedades de manipulação.
