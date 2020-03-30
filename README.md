@@ -26,3 +26,7 @@
 - Hosting in Practice
 - Scoping and the Scope Chain
 - The 'this' Keyword
+
+### Section 4: [JavaScript in the Browser: DOM Manipulation and Events](./4-DOM-pig-game)
+
+- The DOM and DOM Manipulation
