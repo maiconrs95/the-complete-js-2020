@@ -62,9 +62,10 @@ document.querySelector('.btn-hold').addEventListener('click', function () {
 
     // 2. Update user interface
     document.querySelector('#score-' + activePlayer).textContent = scores[activePlayer];
+    var winningScore = document.querySelector('.final-score').value || 100;
 
     // 3. Check IF player won the game
-    if (scores[activePlayer] >= 20) {
+    if (scores[activePlayer] >= winningScore) {
         document.querySelector('#name-' + activePlayer).textContent = 'Winner!';
         document.querySelector('.dice').style.display = 'none';
         document.querySelector('.player-' + activePlayer + '-panel').classList.add('winner');
